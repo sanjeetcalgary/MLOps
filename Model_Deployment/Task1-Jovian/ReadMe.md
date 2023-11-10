@@ -7,3 +7,4 @@
 - conda --version
 - conda create -n environment-name python=3.7.10
 - conda activate environment-name
+- pip install flask gunicorn pickle-mixin scikit-learn
