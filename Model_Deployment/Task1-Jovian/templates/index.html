@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Email Spam Classifier
+    </title>
+    <style>
+        body{
+            text-align: center;
+        }
+        button{
+            background-color: blue;
+            color: white;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <h1>Email Spam Classifier</h1>
+    <form  method="post" action="/predict">
+        <textarea name="name" placeholder="Name"></textarea>
+        <textarea placeholder="Company"></textarea>        
+        <div>
+            <textarea placeholder="City"></textarea>
+            <textarea name="email-content" placeholder="Email">{{email}}</textarea>
+        </div> 
+        <footer>
+            <button>Submit</button>
+            <a href="/">Clear</a>
+        </footer>
+    </form>
+    <h2>{{prediction}}</h2>
+    
+</body>
+
+</html>
