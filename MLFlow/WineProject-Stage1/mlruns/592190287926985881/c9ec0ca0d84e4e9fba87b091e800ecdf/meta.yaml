@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sanjeet/PycharmProjects/mlflow/WineProject/mlruns/592190287926985881/c9ec0ca0d84e4e9fba87b091e800ecdf/artifacts
+end_time: 1700416423780
+entry_point_name: ''
+experiment_id: '592190287926985881'
+lifecycle_stage: active
+run_id: c9ec0ca0d84e4e9fba87b091e800ecdf
+run_name: carefree-bass-783
+run_uuid: c9ec0ca0d84e4e9fba87b091e800ecdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700416421846
+status: 3
+tags: []
+user_id: Sanjeet
