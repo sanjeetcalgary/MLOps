@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sanjeet/PycharmProjects/multirun/mlruns/590934589885140309/cc154d0db7ee483782436d7030c60718/artifacts
+end_time: 1700521876646
+entry_point_name: ''
+experiment_id: '590934589885140309'
+lifecycle_stage: active
+run_id: cc154d0db7ee483782436d7030c60718
+run_name: lasso_r1
+run_uuid: cc154d0db7ee483782436d7030c60718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700521875306
+status: 3
+tags: []
+user_id: Sanjeet
