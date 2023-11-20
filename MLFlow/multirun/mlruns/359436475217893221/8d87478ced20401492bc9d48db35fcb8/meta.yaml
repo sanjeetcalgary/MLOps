@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sanjeet/PycharmProjects/multirun/mlruns/359436475217893221/8d87478ced20401492bc9d48db35fcb8/artifacts
+end_time: 1700520260663
+entry_point_name: ''
+experiment_id: '359436475217893221'
+lifecycle_stage: active
+run_id: 8d87478ced20401492bc9d48db35fcb8
+run_name: run_1.1
+run_uuid: 8d87478ced20401492bc9d48db35fcb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700520259300
+status: 3
+tags: []
+user_id: Sanjeet
